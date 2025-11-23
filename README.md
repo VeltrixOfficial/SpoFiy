@@ -59,5 +59,10 @@ https://discord.gg/Uk6RmZpVDR
 -If you haven't arrived yet, don't worry, you will have a place on our discord server.
 
 
+# For more...
+
+For support👉 https://www.patreon.com/15062069/join
+
+
 
 
