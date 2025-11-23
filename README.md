@@ -47,8 +47,12 @@ https://discord.gg/Uk6RmZpVDR
 
 <img width="340" height="133" alt="Rectangle 3" src="https://github.com/user-attachments/assets/5ea3bb7a-097e-4561-bc45-638d8f2df427" />   <img width="340" height="133" alt="Rectangle 1" src="https://github.com/user-attachments/assets/85db3122-8e0c-424e-aae1-fd3640d09742" />   <img width="313" height="133" alt="Rectangle 2" src="https://github.com/user-attachments/assets/a1fd8e5e-8fb6-4630-8fd7-d2d1dc98f420" /> <img width="313" height="133" alt="banner2" src="https://github.com/user-attachments/assets/da4e6b84-7549-464d-bea3-b47b20bd3ff2" />
 
+# To design👇
 
-
+-Join our Discord server
+-Post the background you designed to the "Designs" channel
+-If your design gets a "✨" response (by the admin), your design will be published on our special site with your name.
+-If you haven't arrived yet, don't worry, you will have a place on our discord server.
 
 
 
