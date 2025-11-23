@@ -50,8 +50,11 @@ https://discord.gg/Uk6RmZpVDR
 # To design👇
 
 -Join our Discord server
+
 -Post the background you designed to the "Designs" channel
+
 -If your design gets a "✨" response (by the admin), your design will be published on our special site with your name.
+
 -If you haven't arrived yet, don't worry, you will have a place on our discord server.
 
 
