@@ -1,0 +1,22 @@
+SpoFiy (beta) version
+
+v.1.0
+
+-Bug Fixed
+
+-Theme feature
+
+-Notification support (may be down, sorry.)
+
+-Quick music change and pause support
+
+-Doesn't take up any space on your screen
+
+-Custom key assignment feature (close and reopen the app after assigning the key!)
+
+Thanks for downloading ❤️
+
+      
+
+https://github.com/VeltrixOfficial/SpoFiy
+
