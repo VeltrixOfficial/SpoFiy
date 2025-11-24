@@ -24,7 +24,8 @@ The application does not support GIF, but it may be added in upcoming updates.�
 # ✨Supported Applications✨
 
 <img width="340" height="133" alt="Twich" src="https://github.com/user-attachments/assets/639d6155-21b6-4249-b37d-bc55b2843adf" draggable="false" />     <img width="340" height="133" alt="youtube" src="https://github.com/user-attachments/assets/8c4d6748-378a-47bf-932b-bb49823f5688" />
- <img width="340" height="133" alt="Spotify" src="https://github.com/user-attachments/assets/15ae2a91-24b2-4589-b844-7cb1c8960218" />  <img width="340" height="133" alt="movies" src="https://github.com/user-attachments/assets/0d432556-bd6d-48ce-ad2a-0eb9ffaa5b15" />
+ <img width="340" height="133" alt="Spotify" src="https://github.com/user-attachments/assets/15ae2a91-24b2-4589-b844-7cb1c8960218" />  <img width="340" height="133" alt="movies" src="https://github.com/user-attachments/assets/b52cbe6a-f941-4e05-a3ef-0bf58959d3ca" />
+
 
 -"Attention, supported applications are not sopnsor, they are those with in-app detection support, that is, they detect Twitch, YouTube and movies in the same way as Spotify does and report them to you."
 
@@ -46,7 +47,8 @@ https://discord.gg/Uk6RmZpVDR
 
 # Sample backgrounds (downloadable)👇
 
-<img width="340" height="133" alt="Rectangle 3" src="https://github.com/user-attachments/assets/5ea3bb7a-097e-4561-bc45-638d8f2df427" />      <img width="313" height="133" alt="Rectangle 2" src="https://github.com/user-attachments/assets/a1fd8e5e-8fb6-4630-8fd7-d2d1dc98f420" /> <img width="313" height="133" alt="banner2" src="https://github.com/user-attachments/assets/da4e6b84-7549-464d-bea3-b47b20bd3ff2" />
+<img width="340" height="133" alt="Rectangle 3" src="https://github.com/user-attachments/assets/5ea3bb7a-097e-4561-bc45-638d8f2df427" />      <img width="313" height="133" alt="Rectangle 2" src="https://github.com/user-attachments/assets/a1fd8e5e-8fb6-4630-8fd7-d2d1dc98f420" /> <img width="313" height="133" alt="banner2" src="https://github.com/user-attachments/assets/da4e6b84-7549-464d-bea3-b47b20bd3ff2" />      <img width="340" height="133" alt="naturebannerHD" src="https://github.com/user-attachments/assets/2f1e18a2-7fe3-486c-82a5-f2dec2863325" />
+
 
 # To design👇
 
