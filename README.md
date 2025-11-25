@@ -77,7 +77,7 @@ https://discord.gg/Uk6RmZpVDR
 (We will be auditioning three designs as stars at a certain time.)
 
 
-                                               All Rights Reserved - VeltrixOfficial
+                                            All Rights Reserved - VeltrixOfficial
 
 To support: https://www.patreon.com/15062069/join
 
