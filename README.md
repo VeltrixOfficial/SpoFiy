@@ -79,6 +79,9 @@ https://discord.gg/Uk6RmZpVDR
 (We will be auditioning three designs as stars at a certain time.)
 
 
+To support: https://www.patreon.com/15062069/join
+
+
 
 
 
