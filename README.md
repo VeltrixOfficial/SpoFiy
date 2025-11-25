@@ -32,6 +32,7 @@ The application does not support GIF, but it may be added in upcoming updates.�
 
 
 -"Attention, supported applications are not sopnsor, they are those with in-app detection support, that is, they detect Twitch, YouTube and movies in the same way as Spotify does and report them to you."
+(However, it will also notify you when it receives a notification from some of these applications.)
 
 
 # 👾Features under development✨
