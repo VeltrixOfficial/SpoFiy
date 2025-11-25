@@ -1,6 +1,7 @@
 
 
-<img width="851" height="130" alt="AVAİNBLENOW" src="https://github.com/user-attachments/assets/501ac636-5960-420f-8821-97763ad67009" />
+<img width="1039" height="130" alt="2" src="https://github.com/user-attachments/assets/3f48a94b-3eb4-4eab-b47a-c1f6c51c2eed" />
+
 
 
 
