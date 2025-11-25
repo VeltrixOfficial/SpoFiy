@@ -1,3 +1,13 @@
+
+
+ We aim to release the app on New Year's Eve or sooner than New Year's Eve.
+
+ <img width="714" height="130" alt="christmens2" src="https://github.com/user-attachments/assets/cb4926e8-133e-48cf-be44-640acb50416f" />
+
+
+
+
+
 # Spo-Fiy🎧
 A mini media player that does not take up any of the screen space and allows you to quickly change music and even customize it.
 
@@ -73,11 +83,9 @@ https://discord.gg/Uk6RmZpVDR
 For support👉 https://www.patreon.com/15062069/join
 
 
-# App release schedule (currently)
 
- We aim to release the app on New Year's Eve or sooner than New Year's Eve.
 
- <img width="714" height="130" alt="christmens2" src="https://github.com/user-attachments/assets/cb4926e8-133e-48cf-be44-640acb50416f" />
+
 
 
 
