@@ -1,8 +1,8 @@
 
+ ⭐WE PLAN TO RELEASE THE APP ON NEW YEAR'S EVE OR EARLIER, BUT THIS COULD CHANGE AT ANY TIME✨
 
- We aim to release the app on New Year's Eve or sooner than New Year's Eve.
+<img width="852" height="130" alt="CHRİSTMENTS" src="https://github.com/user-attachments/assets/7c34631b-5697-406f-826f-b8e7fdff8de9" />
 
- <img width="714" height="130" alt="christmens2" src="https://github.com/user-attachments/assets/cb4926e8-133e-48cf-be44-640acb50416f" />
 
 
 
