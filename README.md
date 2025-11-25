@@ -11,6 +11,10 @@ What kind of features does it have?
 
 -You can customize it however you want. You can place an image of the recommended size (340X133 corner radius=18) including the background as your background. The same applies to key assignment. You can assign any key you want.
 
+-You can adjust the location of the application from the Settings section (only left and center positions are valid)
+
+-You can also remove the background from the "Settings" section.
+
 The application does not support GIF, but it may be added in upcoming updates.🫤
 
 
