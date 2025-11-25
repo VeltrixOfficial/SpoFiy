@@ -1,7 +1,8 @@
 
  ⭐WE PLAN TO RELEASE THE APP ON NEW YEAR'S EVE OR EARLIER, BUT THIS COULD CHANGE AT ANY TIME✨
 
-<img width="852" height="130" alt="CHRİSTMENTS" src="https://github.com/user-attachments/assets/7c34631b-5697-406f-826f-b8e7fdff8de9" />
+<img width="780" height="130" alt="CHRİSTMENTS" src="https://github.com/user-attachments/assets/ddea1462-654c-4c03-8b3c-7a7ac08ce32c" />
+
 
 
 
