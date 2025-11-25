@@ -12,11 +12,16 @@ v.1.0
 
 -Doesn't take up any space on your screen
 
--Custom key assignment feature (close and reopen the app after assigning the key!)
+-Custom key assignment feature
+
+-Restart support has been added.
+
+-Location adjustment support
 
 Thanks for downloading ❤️
 
       
 
 https://github.com/VeltrixOfficial/SpoFiy
+
 
