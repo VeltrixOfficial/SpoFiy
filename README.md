@@ -64,6 +64,8 @@ https://discord.gg/Uk6RmZpVDR
 
 -If you haven't arrived yet, don't worry, you will have a place on our discord server.
 
+(We will be auditioning three designs as stars at a certain time.)
+
 
 # For more...
 
