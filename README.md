@@ -77,7 +77,8 @@ For support👉 https://www.patreon.com/15062069/join
 
  We aim to release the app on New Year's Eve or sooner than New Year's Eve.
 
- <img width="313" height="130" alt="christmens" src="https://github.com/user-attachments/assets/49ec5578-1ebf-4767-a49b-335c50550fe1" />
+ <img width="714" height="130" alt="christmens2" src="https://github.com/user-attachments/assets/cb4926e8-133e-48cf-be44-640acb50416f" />
+
 
 
 
