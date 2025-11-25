@@ -76,8 +76,6 @@ For support👉 https://www.patreon.com/15062069/join
 
 
 
-<img width="1257" height="816" alt="grop3" src="https://github.com/user-attachments/assets/c7c69f87-9bde-4a07-9192-3d75db942b70" />
-
 
 
 
