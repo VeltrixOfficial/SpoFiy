@@ -1,6 +1,7 @@
 
 
-<img width="780" height="130" alt="AVAİNBLENOW" src="https://github.com/user-attachments/assets/ac6a37bb-09ea-4193-a2a9-9cf25cbe1889" />
+![Uploading AVAİNBLENOW.png…]()
+
 
 
 
